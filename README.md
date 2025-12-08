@@ -34,7 +34,7 @@ Next, I copied the original bike_buyers dataset into the Working Sheet to keep t
 
 After that, I reviewed the dataset to understand the fields available and identify what could be analyzed.
 
-# Data Cleaning
+# Checking For Duplicate Values
 
 I began by checking the dataset for duplicate entries. To do this, I selected the entire sheet, went to the Data tab, and used the Remove Duplicates feature. I selected all columns to ensure a full check across the dataset, which resulted in 26 duplicate rows being removed.
 

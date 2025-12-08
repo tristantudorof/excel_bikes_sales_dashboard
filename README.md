@@ -10,7 +10,7 @@ This project analyzes bike customer data using the six-step Google Data Analytic
 
 Build an interactive sales dashboard to showcase bike sales and analyze results to identify sales trends.
 
-1. Ask
+# 1. Ask
 
 • Which age group buys the most bikes?
 
@@ -18,7 +18,7 @@ Build an interactive sales dashboard to showcase bike sales and analyze results 
 
 • Which commute distance has the most bike buyers?
 
-2. Prepare
+# 2. Prepare
 
 Starting Dataset: [Excel Project Dataset.xlsx](https://github.com/user-attachments/files/24042478/Excel.Project.Dataset.xlsx) raw dataset containing detailed bike customer details.
 

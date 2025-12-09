@@ -12,7 +12,7 @@ Download Finished Dashboard and Excel sheets: [Excel Bike Project Dataset Finish
 
 # Project Skills 
 
-• Cleaning and preparing raw data. • Data transformation • Filtering, sorting, and Excel functions (VLOOKUP, IF, Find and Replace) • Pivot Tables and Pivot Charts • Data visualization and dashboard creation • Analyzing purchase trends
+• Cleaning and preparing raw data. • Data transformation • Filtering, sorting, and Excel functions (IF, Find and Replace) • Pivot Tables and Pivot Charts • Data visualization and dashboard creation • Analyzing purchase trends
 
 # Business Task
 
@@ -28,7 +28,7 @@ Build an interactive sales dashboard to showcase bike sales and analyze results 
 
 # 2. Prepare
 
-Starting Dataset: [Excel Project Dataset.xlsx](https://github.com/user-attachments/files/24042478/Excel.Project.Dataset.xlsx) raw dataset containing detailed bike customer details.
+Starting Raw Dataset: [Excel Project Dataset.xlsx](https://github.com/user-attachments/files/24042478/Excel.Project.Dataset.xlsx) raw dataset containing detailed bike customer details.
 
 In Excel, 1 sheet is included in the dataset: bike_buyers
 
@@ -177,6 +177,78 @@ I then added more slicers for Region and Education, and connected each one to al
 # The Finished Dashboard
 
 <img width="794" height="536" alt="Screenshot 2025-12-08 at 10 57 43 PM" src="https://github.com/user-attachments/assets/ab59aefc-9b07-49a2-8ec6-c3002a5d2226" />
-Download Finished Dashboard and Excel sheets: [Excel Bike Project Dataset Finished.xlsx](https://github.com/user-attachments/files/24045868/Excel.Bike.Project.Dataset.Finished.xlsx)
+
+Download Finished Dashboard and Excel sheets: [Excel Bike Project Dataset Finished.xlsx](https://github.com/user-attachments/files/24045883/Excel.Bike.Project.Dataset.Finished.xlsx)
+
+# 6. Act
+
+# 1. Age Group Purchases
+
+Adolescent (0–30): Lowest number of bike purchases overall.
+Middle Age (31–54): Highest number of purchases, making this the strongest buying group.
+Old (55+): Moderate purchase activity but significantly lower than middle-aged customers.
+
+Insight: The 31–54 age group drives the majority of bike sales, making them the primary target audience.
+
+# 2. Gender Purchases
+
+Female: Lower purchase counts compared to males.
+Male: Higher purchase counts and higher average income, contributing more to overall bike sales.
+
+Insight: Men purchase more bikes than women, indicating stronger engagement from male customers.
+
+# 3. Commute Distance Purchases
+
+0–1 Miles: Highest number of bike buyers.
+1–2 Miles / 2–5 Miles: Moderate but declining purchase levels.
+5–10 Miles: Higher non-buyer counts compared to buyers.
+More than 10 Miles: Lowest purchase numbers.
+
+Insight: Short-distance commuters (0–1 miles) are the most likely to buy bikes, suggesting convenience plays a major role in purchase decisions.
+
+# Market Opportunity Breakdown
+
+Overall, the market shows its strongest opportunity in middle-age buyers, high-income male customers, and short-distance commuters—three segments with clear purchase intent and strong alignment with practical, lifestyle-driven bike use.
+
+# High-Performing Segment: Middle-Age Customers (31–54)
+
+Middle-age customers represent the largest and most consistent group of bike buyers across the dashboard. They show strong engagement and the highest count of purchases.
+
+Business Proposals:
+• Develop targeted marketing campaigns focused on health, commuting convenience, and lifestyle benefits.
+• Introduce mid-range and premium bike packages tailored to this demographic.
+• Create retention strategies (warranty upgrades, service discounts) to strengthen long-term customer value.
+
+# Growth Opportunity: Male Customers
+
+Male customers demonstrate stronger purchasing activity and higher average incomes, especially among those who buy bikes. This indicates clear potential for expanding high-value sales.
+
+Business Proposals:
+• Promote performance and feature-driven models that appeal to higher-income male buyers.
+• Offer premium add-ons (gear bundles, accessories, maintenance plans).
+• Run targeted digital ads focusing on lifestyle improvement and convenience.
+
+# Emerging Segment: Short-Distance Commuters (0–1 Mile)
+
+Bike purchases are highest among customers with short commutes, suggesting strong practicality-driven demand. While this group is smaller than age or gender segments, it shows clear behavioral alignment with bike ownership.
+
+Business Proposals:
+• Position bikes as the ideal solution for quick, cost-effective daily travel.
+• Create commuter-focused bundles (helmets, locks, lights, panniers).
+• Partner with local employers or city programs to promote bike-to-work initiatives.
+
+# Business Impact
+
+The dashboard gives decision makers a clear understanding of who buys bikes, what motivates their purchases, and which customer segments deliver the strongest opportunities. These insights support more effective marketing, targeted product offerings, and focused retention strategies ultimately helping increase sales, strengthen customer loyalty, and guide smarter, data driven planning.
+
+# Conclusion
+
+The bike sales analysis highlights clear customer patterns—middle-age buyers, male customers, and short-distance commuters consistently drive the highest purchase activity. Understanding these trends allows the business to tailor marketing, product offerings, and engagement strategies to the segments most likely to convert, ultimately supporting stronger sales and more targeted growth.
+
+# Thank You
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on [LinkedIn](https://www.linkedin.com/in/tristan-tudorof/)
+
+
 
 

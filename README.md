@@ -6,7 +6,8 @@ This project analyzes bike customer data using the six-step Google Data Analytic
 # The Finished Dashboard
 
 <img width="794" height="536" alt="Screenshot 2025-12-08 at 10 57 43 PM" src="https://github.com/user-attachments/assets/ab59aefc-9b07-49a2-8ec6-c3002a5d2226" />
-Download Finished Dashboard and Excel sheets: [Excel Bike Project Dataset Finished.xlsx](https://github.com/user-attachments/files/24045868/Excel.Bike.Project.Dataset.Finished.xlsx)
+Download Finished Dashboard and Excel sheets: [Excel Bike Project Dataset Finished.xlsx](https://github.com/user-attachments/files/24045883/Excel.Bike.Project.Dataset.Finished.xlsx)
+
 
 # Project Skills 
 

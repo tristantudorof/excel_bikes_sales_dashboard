@@ -80,4 +80,9 @@ For the final age group (54 or older), I used: =IF(L2>54, "Old", IF(L2>=31,"Midd
 
 <img width="907" height="506" alt="Screenshot 2025-12-08 at 7 45 46 PM" src="https://github.com/user-attachments/assets/7e8349da-744c-48de-a328-0d2f60bbee98" />
 
+I now have three different age groups, which are much more useful for the finished dashboard and overall analysis.
+
+I noticed that using Find and Replace to change the “M” and “S” values also altered the column header, so I went back and quickly corrected the column name.
+
+<img width="206" height="75" alt="Screenshot 2025-12-08 at 7 51 12 PM" src="https://github.com/user-attachments/assets/22e9bb30-1d2f-475a-bce7-9f4fa9837f39" />
 

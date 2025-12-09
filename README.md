@@ -56,3 +56,28 @@ After updating the “M” values, I repeated the same process for the letter �
 I then moved over to Column C and updated the Gender values by replacing “F” with “Female” and “M” with “Male.”
 
 <img width="954" height="343" alt="Screenshot 2025-12-08 at 7 06 04 PM" src="https://github.com/user-attachments/assets/ce33cdfe-b68d-4692-a4a2-1b54c5db4f04" />
+
+# Age Brackets 
+
+There are many different age values in the dataset, so grouping them will make the information easier to understand. To simplify the analysis, I created a new column to categorize each person into an age group, which will be used later in the dashboard for clearer insights.
+
+To the right of the Age column, I created a new column named Age Bracket.
+I used an IF statement to classify each age by checking whether it falls above or below specific ranges. This allowed me to automatically assign the correct age bracket to each person.
+
+To create the first age group (under 31), I used the formula: =IF(L3<31,"Adolescent","Invalid")
+
+This returned “Adolescent” for anyone younger than 31 and “Invalid” for everyone outside that range, which confirmed the formula was working correctly before building the remaining brackets. 
+
+# Building a Nested IF statement 
+
+I then added an additional IF statement in front of the original formula to include a “Middle Age” category for anyone aged 31 or older. This allowed me to begin building multiple age ranges within a single nested IF formula.
+
+To create the second age group (31 or older), I used: =IF(L2>=31,"Middle Age", IF(L2<31,"Adolescent","Invalid"))
+
+Next, I created a third and final age group, “Old,” for anyone older than 54. To do this, I expanded the nested IF statement again.
+
+For the final age group (54 or older), I used: =IF(L2>54, "Old", IF(L2>=31,"Middle Age", IF(L2<31,"Adolescent","Invalid")))
+
+<img width="907" height="506" alt="Screenshot 2025-12-08 at 7 45 46 PM" src="https://github.com/user-attachments/assets/7e8349da-744c-48de-a328-0d2f60bbee98" />
+
+
